@@ -1,0 +1,9 @@
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\bin\Debug\finalsTP.exe.config
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\bin\Debug\finalsTP.exe
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\bin\Debug\finalsTP.pdb
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.csproj.AssemblyReference.cache
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.Properties.Resources.resources
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.csproj.GenerateResource.cache
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.csproj.CoreCompileInputs.cache
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.exe
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.pdb
