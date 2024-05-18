@@ -7,3 +7,4 @@ C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.csproj.Generate
 C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.csproj.CoreCompileInputs.cache
 C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.exe
 C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.pdb
+C:\Users\Jetro\Desktop\CODE\finalsTP\finalsTP\obj\Debug\finalsTP.LoginWindow.resources

@@ -7,14 +7,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82764ee2-8931-4384-947e-d872d6a6ba60" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/finalsTP/Icons-Images/ITEM SIMPLE.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finalsTP/Icons-Images/ITEM crop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finalsTP/LoginWindow.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finalsTP/LoginWindow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finalsTP/LoginWindow.resx" afterDir="false" />
+    <list default="true" id="82764ee2-8931-4384-947e-d872d6a6ba60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.LoginWindow.resources" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.finalsTP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.finalsTP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalsTP/finalsTP.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/finalsTP.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/LoginWindow.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/LoginWindow.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/LoginWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/LoginWindow.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/LoginWindow.resx" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/LoginWindow.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/bin/Debug/finalsTP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/bin/Debug/finalsTP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/bin/Debug/finalsTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/bin/Debug/finalsTP.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.exe" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/finalsTP/obj/Debug/finalsTP.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +30,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JetroDamaso"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JetroDamaso&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JetroDamaso/finalsTP",
-    "accountId": "825e8527-b50e-4d72-a001-09e138cb6f68"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JetroDamaso/finalsTP&quot;,
+    &quot;accountId&quot;: &quot;825e8527-b50e-4d72-a001-09e138cb6f68&quot;
   }
-}]]></component>
+}</component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gcdGhgOeDJnhkdNm3gqnNrxGvQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,6 +59,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Project.finalsTP.executor": "Run",
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -99,7 +109,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716000344706</updated>
-      <workItem from="1716000708757" duration="2843000" />
+      <workItem from="1716000708757" duration="2977000" />
+      <workItem from="1716003996710" duration="3291000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -125,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716001461321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="loginpage">
+      <option name="closed" value="true" />
+      <created>1716003675804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716003675804</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +167,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="loginpage" />
+    <option name="LAST_COMMIT_MESSAGE" value="loginpage" />
   </component>
 </project>
